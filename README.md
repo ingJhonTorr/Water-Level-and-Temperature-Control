@@ -1,4 +1,4 @@
-<h1 align=center>Water level and temperature control</h1> 
+<h1 align=center>Water Level and Temperature Control</h1> 
 <p>This Arduino code uses sensors to monitor humidity and temperature. Depending on the humidity, it controls LEDs to indicate if a tank is full, medium, or almost empty. It also checks the temperature and activates a buzzer if it goes out of range. This code runs continuously to provide continuous environmental monitoring and feedback.</p>
 <h2 align=center>Objective</h2>
 <ul>
